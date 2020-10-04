@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cyber362-creditcard",
+  "private_key_id": "983766f5539fadf56d6ca706644c46a0a65cd10f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFlp5SLHLevAor\n9c3fIPLu8Z02RbDaBhNLMGR44nksKAwbGIf9NSnxzKiNc/+7EU1LXCITAOtrCFtL\nkDJZ3JXUlZEqgOLjrsAjWWb9wrlbnIq6O7X0GWRvcp/oFXW5l9EZMGKNbls0968E\n7psgIqreokqL7NKLOgavLDcdOnYVNNjwWvByKN/v/+xDbMze/4jg0iEaIQttNN4e\nu5kzZ4z5LxP7GlqgHSxbvJjOPTo38HCmxhB/dGDKHSs2RbWjl1c/Pb9NmUyTpw62\nG5A9odnGrn1c5AwX0tT7E5VHBZ3h7LGJgjl6AQl9Pw4nnKNd3wNTNMPIUoc2Q++4\n7zhUIPJVAgMBAAECggEAJ/FtWv5KUHWh9sYPkrJF+gDU/7Ix8Lk2sEX9oaRiy4bi\n/51DbHARZSSy1DmlcmsqfXgIGWBftvju/8UMMLdTgLClsnpwo4dhpyO9GsKBFyB7\nuO82NrzlXVRGODQSYuzqY9WwrpenD3ucoXoc2O+5LB2RxVygKW4XCNV+5MU7Nsjn\nvRHBtoyHlsIjJfQEjh9avq2gunmhxG/h1eFE0vBcg9dtCMM9oTCtWQk22YkDX3JT\n/MTZ9xRLWeGj2UA7wg6NeJ5yngNKgJDQvKjJ8mMGPgKqLm/yFmnmfTcIDJaWCClp\n8aiVB7nrSgx1VE49r1NoWL6DKCtF8vMo3yIyy5NaoQKBgQDiPbN+H4KKt4UzJaev\numLRTkKp9bW254Gsyd77pdcAvlRHkPcpcSOvxQSm1P6xIJdCx9MHZDBAfM7YxJcW\n8WBgt6q0cb5lGbS9yuR8geEg1YKeg5gan8WduCVnQ3h5Vd8GJN6+lzkIirV4PuGy\nE9G5ovV7iOFLLsZDBYl70TAOxQKBgQDflBXVRQ0lyXIFGh1fCBLtgJBE5BYSmciF\nHFcUjxjkLxuDcBfhcGVnkig5LvlwPiAokJuL4rF07GRTkSDssn+gWwlcpNgt68Cm\neLxiTofLZ4umjyH7pSvB9ZSLkEcYQzd0DQIwEjXdLmegvAjwlSsFw/Cjxu+nDgKj\npG4xCH+OUQKBgBt9OcD6XSczs0iKq7xLXlRmOO1jwIePy47OHHzhIqWheqYTdCSh\n7Z8exjjrKmMlPZvModSFFOPRBmUKRf1wqLA3wNMZ+vNX00E4VNjYAx21M6DFBoc9\noIpQZKMObKX5jBa4BiSMRU7HY9NPeKblh5cRuNggwpcbANYF5zWXLkqtAoGALDra\net93M2N/t/yrlNI/FFcbs1U//JwJrDOoEnwgm3uqQL1bLBEVLoEejfl6BTd1GzFI\nZEsLeisNye5rCghh8TIxTu+ZiLQb35MBCZ2phZbNbLziJytM1ckkgtufBPC/Nqkg\nJqxjlYcJnyWzywxnf3N81pmTbYP7B66O0gpxWZECgYAbMewAMEuh2i7vMh6AXiK2\nNEfAQIO2qchnDvbYT2myvFfoFmROI5YCdaSxVfj8C2Pm77WAE/9XkIK3TfzfWICz\ndzM+HC4QeTjN2T5W49kBpSV1D/4GCEA1auEZSSwmp+2AB8hWM8URtk0XcFkFvLcd\nRbaCOG8V8tWfprcPQ6aegg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "class-work-project-account@cyber362-creditcard.iam.gserviceaccount.com",
+  "client_id": "116290276395718606404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/class-work-project-account%40cyber362-creditcard.iam.gserviceaccount.com"
+}
